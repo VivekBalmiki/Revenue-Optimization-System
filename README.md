@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../Revenue Optimization System/assests/banner.png" alt="Revenue Optimization System Banner" width="100%" />
+  <img src="./assests/banner.png" alt="Revenue Optimization System Banner" width="100%" />
 </p>
 
 <h1 align="center">🏆 Revenue Optimization System</h1>
