@@ -1,0 +1,6 @@
+Category,Elasticity,Margin %,Price Strategy,Price Rationale,Discount Strategy,Best Scenario,Expected Profit Δ%
+Clothing,0.013,50%,⬆️ TEST +3–5%,Low price sensitivity; controlled increase unlikely to impact demand,⚠️ AVOID HIGH DISCOUNTS (>15%) — profit destructive,"S5: +15% Price, −10% Discount",13.8
+Electronics,0.023,25%,⬆️ TEST +3–5%,Low price sensitivity; controlled increase unlikely to impact demand,⚠️ AVOID HIGH DISCOUNTS (>15%) — profit destructive,"S5: +15% Price, −10% Discount",14.1
+Grocery,0.176,20%,⬆️ TEST +3–5%,Low price sensitivity; controlled increase unlikely to impact demand,⚠️ AVOID HIGH DISCOUNTS (>15%) — profit destructive,"S5: +15% Price, −10% Discount",15.2
+Home,0.082,40%,⬆️ TEST +3–5%,Low price sensitivity; controlled increase unlikely to impact demand,⚠️ AVOID HIGH DISCOUNTS (>15%) — profit destructive,"S5: +15% Price, −10% Discount",14.6
+Personal Care,0.088,45%,⬆️ TEST +3–5%,Low price sensitivity; controlled increase unlikely to impact demand,⚠️ AVOID HIGH DISCOUNTS (>15%) — profit destructive,"S5: +15% Price, −10% Discount",14.5

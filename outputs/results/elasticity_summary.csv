@@ -1,0 +1,6 @@
+category,elasticity,r2,interpretation
+Clothing,0.0127,0.2067,Inelastic / Low sensitivity
+Electronics,0.0227,0.2482,Inelastic / Low sensitivity
+Home,0.0815,0.2222,Inelastic / Low sensitivity
+Personal Care,0.0883,0.195,Inelastic / Low sensitivity
+Grocery,0.1757,0.2043,Inelastic / Low sensitivity
